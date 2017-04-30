@@ -1,0 +1,6 @@
+In this homework we will define class	for rational numbers.
+Represent rational numbers as two values of type int,
+one for the numerator and one for the denominator.
+
+Depending on the user input the values of the rational numbers are going to vary. 
+There are some if statements that will change the enumerator and denominator of the problem. 
