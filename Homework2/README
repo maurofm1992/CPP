@@ -1,0 +1,7 @@
+This project helps you measure the size of the bed. Also, helps you find the appropiate mattress, and rug for the bed. 
+All is done through the use of functions with pointer arguments that will later be used in the main function. 
+
+First, thing it asks is for the measurements of the Bedroom.
+Second, it asks you for the shape of the rug tht you have.
+  Depending on the users decision the program decides to use one function or the other.
+Third, enter the measurements of the rug and the system will tell you if the rug fits.
