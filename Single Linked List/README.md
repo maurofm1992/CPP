@@ -1,4 +1,4 @@
-For this project you will see how the Single Linked list work in your code. Best way to understand it is debugging the program while you have a lot of breaks to see how it behaves.   
+For this project you will see how the Single Linked list work in your code. Each node of a singly linked list has data elements and a single link (pointer) that points to the next node of the list (or) NULL if it is the last node of the list. Addition/ Deletion of a node to the singly linked list involves the creation/ deletion of the node and adjusting the node pointers accordinglyBest way to understand it is debugging the program while you have a lot of breaks to see how it behaves. 
 
 After practicing and looking at the code behavior, you should be able to perform the following:
            
