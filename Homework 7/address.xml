@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<address_book>
+<contact>
+<name>George Clooney</name>
+<street>9531 Losana Dr.</street>
+<city>Ft Lauderdale</city>
+<state>FL</state>
+<zip>33314</zip>
+</contact>
+<contact>
+<name>Cathy Pearl</name>
+<street>4568 sw 89th st.</street>
+<city>Davie</city>
+<state>FL</state>
+<zip>33018</zip>
+</contact>
+<contact>
+<name>Paris Hilton</name>
+<street>651 Pine island rd.</street>
+<city>Davie</city>
+<state>FL</state>
+<zip>33029</zip>
+</contact>
+<contact>
+<name>Wendy Jones</name>
+<street>1900 Furniture cir.</street>
+<city>Miami</city>
+<state>FL</state>
+<zip>33318</zip>
+</contact>
+</address_book>
