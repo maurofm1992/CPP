@@ -4,4 +4,4 @@ After you explore the code and practice it, you should be able to understand the
 	(1) Manage dynamic memory (allocate and de-allocate memory).
 	(2) Implement a default constructor and a copy constructor.
 	(3) Implement an insert function to add a string, in order, to a dynamic array
-  (4) Implement a remove function to delete a string from a dynamic array
+  	(4) Implement a remove function to delete a string from a dynamic array
