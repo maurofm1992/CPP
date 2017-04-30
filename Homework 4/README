@@ -1,0 +1,2 @@
+This Project gives you the final letter grade for each student. The grades for the year are inside of a .txt file and the main
+opnes the file and evaluates all of them for each student to tell the final grade for ach onw of them. 
