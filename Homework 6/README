@@ -1,0 +1,4 @@
+/*Generate a random number between 0 and 1, if this number is less than or equal to the 
+death probability then predict that the user will live to the current age. If the random number is greater than the death probability, 
+then increase the age by one and repeat the calculations with a new random number for the next probability value.
+*/
