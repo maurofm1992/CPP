@@ -1,0 +1,6 @@
+Gomez Manuel 80 75 89 79
+Hosh Andrew 90 95 76 88
+Hawkins Patricia 100 89 74 95
+Ware Darryl 89 90 100 95
+Soto Nathalie 100 98 89 95
+Brown Corey 79 89 87 95
