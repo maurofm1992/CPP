@@ -1,4 +1,6 @@
-In this homework we use a xml file that has some information about some customers.
-We open the file in the main and assign the values inside the XML file to the array that contains the ifno of each custoner.
+In this homework we use a XML file that has some information about the VIP customers.
+We open the file in .main and assign the values inside the XML file to the array that contains the info of each VIP customer
+name, address, zip code.
+
 The Purpose of the homework is to find customers on VIP list using some filters on the code.
-In this particular case we use the city and the xip code to find the customers that we need to call or to reach out. 
+In this particular case we use the city and the zip code to find the customers that we need to call or to reach out. 
